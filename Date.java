@@ -3,7 +3,7 @@ public class Date {
 	System.out.println ("hi") ;
 	
 	int year = 2026 ;
-	String month = "Septmber" ;
+	String month = "September" ;
 	int date = 14 ;
 	String day = "Monday" ;
 	
